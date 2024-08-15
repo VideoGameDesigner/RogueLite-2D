@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Obstacle
+  - EnemyBullet
+  - Healing
+  - Metal
+  - Shield
+  - ForceField
+  - 1st_Boss
+  - BossBullets
+  - CannonBalls
+  - Cannon
+  - ToughEnemyBullet
+  - ToughEnemy
+  - Thunder
+  - TrickyEnemy
+  - BackBullet
+  - EnemyManager
+  - EyeBall
+  - EyeBallBullet
+  - Spinner
+  - Mine
+  - FinalBossBullet
+  - FinalBoss
+  - HotIron
+  - HugeUpgrade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerProjectile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullets
+    uniqueID: 3024720619
+    locked: 0
+  - name: Player
+    uniqueID: 3213274731
+    locked: 0
